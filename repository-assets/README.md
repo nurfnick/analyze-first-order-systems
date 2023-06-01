@@ -1,1 +1,0 @@
-This folder contains ancillary files for the presentation of the repository such as images.  It is not necessary for deployment of the module in a course.
