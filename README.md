@@ -49,7 +49,7 @@ Use this page to get an idea of the timeline of the module, what components are 
 | Part 4 | Out of Class | Reflection Questions | In Assignment Document |
 
 ## Course Information
-This course was developed for a mechanical engineering course, <a href="https://catalog.ttu.edu/content.php?filter%5B27%5D=ME&filter%5B29%5D=3333&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=19&expand=&navoid=1850&search_database=Filter#acalog_template_course_filter">Dynamic Systems and Vibrations</a>, at Texas Tech University which explores the modeling and analysis of dynamic systems, equilibrium, stability and linear systems theory, as well as the introduction to mechanical vibrations. Because this is an intermediate engineering course, students completing this module should have experience with system modeling, finding the time constant and motor gain of a system, plus a general understanding of MATLAB.
+This course was developed for a mechanical engineering course, <a href="https://catalog.ttu.edu/content.php?filter%5B27%5D=ME&filter%5B29%5D=3333&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=19&expand=&navoid=1850&search_database=Filter#acalog_template_course_filter">Dynamic Systems and Vibrations</a>, at Texas Tech University which explores the modeling and analysis of dynamic systems, equilibrium, stability and linear systems theory, as well as the introduction to mechanical vibrations. Students completing this module will gain experience with system modeling and parameter estimation. Students should have a general understanding of MATLAB and first-order system response before completing the module.
 
 ---
 
